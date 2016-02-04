@@ -31,7 +31,7 @@ TBA
 
 **July**
 
-* Better brewing with... | [@sammeadley](https://twitter.com/sammeadley) | [slides](http://www.slideshare.net/SamMeadley/better-brewing), [blog post](https://craftbeercraftcode.com/2015/04/09/even-better-brewing-with-nonnull/)
+* Better brewing with... | [@sammeadley](https://twitter.com/sammeadley) | [slides](https://speakerdeck.com/sammeadley/better-brewing-with-dot-dot-dot), [blog post](https://craftbeercraftcode.com/2015/04/09/even-better-brewing-with-nonnull/)
 
 **June**
 
