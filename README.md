@@ -7,14 +7,14 @@ TBA
 
 **February**
 * Target-Action and the Responder Chain on iOS | [@sammeadley](https://twitter.com/sammeadley) | [slides](https://speakerdeck.com/sammeadley/target-action-and-the-responder-chain-on-ios), [code and discussion](https://github.com/sammeadley/responder-chain)
-* Hacking XCTest | [@stuartsharpe](https://twitter.com/stuartsharpe) | [blog post](http://initwithstyle.net/2015/11/tdd-in-swift-playgrounds/)
+* Hacking XCTest for Fun and Profit | [@stuartsharpe](https://twitter.com/stuartsharpe) | [blog post](http://initwithstyle.net/2015/11/tdd-in-swift-playgrounds/)
 * Functional Reactive Programming in RxSwift | [@tailectailec](https://twitter.com/tailectailec) | [code](https://github.com/tailec/FRP-with-RxSwift)
 
 ### 2015
 
 **December**
 * iOS Multithreading | [@gspiers](https://twitter.com/gspiers)
-* Countin app | [@matthew_spear](https://twitter.com/matthew_spear)
+* Countin app | [@matthew_spear](https://twitter.com/matthew_spear) | [appstore](https://itunes.apple.com/gb/app/countin-multipurpose-utility/id1021379496?mt=8&ls=1&ign-mpt=uo%3D4)
 
 **November**
 
