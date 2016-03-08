@@ -1,9 +1,12 @@
 ## NSManchester talks
 
 ### 2016
-**March**
+**April**
 
 TBA
+
+**March**
+* Swift Hack: NSManchester iOS App
 
 **February**
 * Target-Action and the Responder Chain on iOS | [@sammeadley](https://twitter.com/sammeadley) | [slides](https://speakerdeck.com/sammeadley/target-action-and-the-responder-chain-on-ios), [code and discussion](https://github.com/sammeadley/responder-chain)
