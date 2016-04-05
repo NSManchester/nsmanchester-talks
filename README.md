@@ -1,6 +1,9 @@
 ## NSManchester talks
 
 ### 2016
+**May**
+* TBA
+
 **April**
 * Fun with Xcode Server | [@CocoaKevin](https://twitter.com/CocoaKevin)
 
