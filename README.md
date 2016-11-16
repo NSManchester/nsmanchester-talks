@@ -3,8 +3,8 @@
 ### 2016
 
 **November**
-* CocoaLove 2016 | [@matthew_spear](https://twitter.com/matthew_spear) | [slides](./tree/master/2016/10/matthewspear_cocoalove2016.pdf)
-* Webview Audio | [@ross_w_butler](https://twitter.com/ross_w_butler) | [slides](./tree/master/2016/10/rossbutler_webviewaudio.pdf)
+* CocoaLove 2016 | [@matthew_spear](https://twitter.com/matthew_spear) | [slides](../../tree/master/2016/10/matthewspear_cocoalove2016.pdf)
+* Webview Audio | [@ross_w_butler](https://twitter.com/ross_w_butler) | [slides](../../tree/master/2016/10/rossbutler_webviewaudio.pdf)
 
 **May**
 * TBA
@@ -13,7 +13,7 @@
 * Fun with Xcode Server | [@CocoaKevin](https://twitter.com/CocoaKevin)
 
 **March**
-* Swift Hack: NSManchester iOS App | [@ross_w_butler](https://twitter.com/ross_w_butler) | [slides](./tree/master/2016/03/rossbutler_swifthack.pdf)
+* Swift Hack: NSManchester iOS App | [@ross_w_butler](https://twitter.com/ross_w_butler) | [slides](../../tree/master/2016/03/rossbutler_swifthack.pdf)
 
 **February**
 * Target-Action and the Responder Chain on iOS | [@sammeadley](https://twitter.com/sammeadley) | [slides](https://speakerdeck.com/sammeadley/target-action-and-the-responder-chain-on-ios), [code and discussion](https://github.com/sammeadley/responder-chain)
