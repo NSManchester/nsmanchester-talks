@@ -9,8 +9,8 @@
 
 **December**
 * NSManchester for iOS and CodeMobile Conference Update
-* TBC | [@stuartsharpe](https://twitter.com/stuartsharpe)]
-* iOS at CBeebies | [@ross_w_butler](https://twitter.com/ross_w_butler)]
+* TBC | [@stuartsharpe](https://twitter.com/stuartsharpe)
+* iOS at CBeebies | [@ross_w_butler](https://twitter.com/ross_w_butler)
 * Discussion: CI Systems
 
 **November**
