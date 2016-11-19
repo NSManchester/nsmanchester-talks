@@ -1,12 +1,30 @@
 ## NSManchester talks
 
+### 2017
+
+**January**
+* TBC
+
 ### 2016
+
+**December**
+* NSManchester for iOS and CodeMobile Conference Update
+* TBC | [@stuartsharpe](https://twitter.com/stuartsharpe)]
+* iOS at CBeebies | [@ross_w_butler](https://twitter.com/ross_w_butler)]
+* Discussion: CI Systems
 
 **November**
 * CocoaLove 2016 | [@matthew_spear](https://twitter.com/matthew_spear) | [slides](../../tree/master/2016/10/matthewspear_cocoalove2016.pdf)
 * Webview Audio | [@ross_w_butler](https://twitter.com/ross_w_butler) | [slides](../../tree/master/2016/10/rossbutler_webviewaudio.pdf)
 
-**May**
+**September**
+* Danger | [@orta](https://twitter.com/orta) | [slides](https://speakerdeck.com/orta/danger-in-15m)
+
+**July**
+* App Architectures with RxSwift | [@tailectailec](https://twitter.com/tailectailec)
+* WWDC Round Up | [@matthew_spear](https://twitter.com/matthew_spear)
+
+**June**
 * TBA
 
 **April**
