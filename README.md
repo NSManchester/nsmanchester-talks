@@ -46,11 +46,11 @@
 
 **November**
 
-* ? | [@ross_w_butler](https://twitter.com/ross_w_butler)
+* TBA | [@ross_w_butler](https://twitter.com/ross_w_butler)
 
 **October**
 
-* iosdevuk? | [@ross_w_butler](https://twitter.com/ross_w_butler)
+* iOSDevUK Roundup | [@ross_w_butler](https://twitter.com/ross_w_butler)
 * Games development | [@abitofcode](https://twitter.com/abitofcode)
 
 **August**
@@ -63,7 +63,7 @@
 
 **June**
 
-* ? | [@ross_w_butler](https://twitter.com/ross_w_butler)
+* TBA | [@ross_w_butler](https://twitter.com/ross_w_butler)
 
 
 **May**
