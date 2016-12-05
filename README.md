@@ -22,7 +22,7 @@
 
 **July**
 * App Architectures with RxSwift | [@tailectailec](https://twitter.com/tailectailec)
-* WWDC Round Up | [@matthew_spear](https://twitter.com/matthew_spear)
+* WWDC Round Up | [@matthew_spear](https://twitter.com/matthew_spear) | [slides](../../tree/master/2016/07/matthewspear_wwdc2016.pdf)
 
 **June**
 * TBA
