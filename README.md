@@ -2,20 +2,23 @@
 
 ### 2017
 
+**February**
+* The Windows Bridge for iOS | [@mikeirvingweb](https://twitter.com/mikeirvingweb)
+
 **January**
-* TBC
+* TBA | [@abitofcode](https://twitter.com/abitofcode)
 
 ### 2016
 
 **December**
 * NSManchester for iOS and CodeMobile Conference Update
-* The Worst Bug Ever | [@stuartsharpe](https://twitter.com/stuartsharpe)
+* The Worst Bug Ever | [@stuartsharpe](https://twitter.com/stuartsharpe) | [slides](../../tree/master/2016/12/stuartsharpe_worstbugever.pdf)
 * iOS at CBeebies | [@ross_w_butler](https://twitter.com/ross_w_butler)
 * Discussion: CI Systems
 
 **November**
-* CocoaLove 2016 | [@matthew_spear](https://twitter.com/matthew_spear) | [slides](../../tree/master/2016/10/matthewspear_cocoalove2016.pdf)
-* Webview Audio | [@ross_w_butler](https://twitter.com/ross_w_butler) | [slides](../../tree/master/2016/10/rossbutler_webviewaudio.pdf)
+* CocoaLove 2016 | [@matthew_spear](https://twitter.com/matthew_spear) | [slides](../../tree/master/2016/11/matthewspear_cocoalove2016.pdf)
+* Webview Audio | [@ross_w_butler](https://twitter.com/ross_w_butler) | [slides](../../tree/master/2016/11/rossbutler_webviewaudio.pdf)
 
 **September**
 * Danger | [@orta](https://twitter.com/orta) | [slides](https://speakerdeck.com/orta/danger-in-15m)
