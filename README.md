@@ -8,7 +8,7 @@
 
 **January**
 * TBA | [@abitofcode](https://twitter.com/abitofcode)
-* TBA | [@Adam9Rush](https://twitter.com/adam9rush)
+* Continuous Delivery | [@Adam9Rush](https://twitter.com/adam9rush)
 
 ### 2016
 
