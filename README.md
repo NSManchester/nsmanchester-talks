@@ -7,7 +7,7 @@
 * A Swift Journey | [@lukestringer90](https://twitter.com/lukestringer90)
 
 **January**
-* TBA | [@abitofcode](https://twitter.com/abitofcode)
+* Get More Done By Doing Less | [@abitofcode](https://twitter.com/abitofcode)
 * Continuous Delivery | [@Adam9Rush](https://twitter.com/adam9rush)
 
 ### 2016
