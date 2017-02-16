@@ -3,8 +3,8 @@
 ### 2017
 
 **February**
-* The Windows Bridge for iOS | [@mikeirvingweb](https://twitter.com/mikeirvingweb)
-* A Swift Journey | [@lukestringer90](https://twitter.com/lukestringer90)
+* The Windows Bridge for iOS | [@mikeirvingweb](https://twitter.com/mikeirvingweb) | [slides](./2017/02/mikeirving_windows_bridge.pdf)
+* A Swift Journey | [@lukestringer90](https://twitter.com/lukestringer90) | [slides](./2017/02/lukestringer_a_swift_journey.pdf)
 
 **January**
 * Get More Done By Doing Less | [@abitofcode](https://twitter.com/abitofcode)
