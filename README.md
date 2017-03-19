@@ -3,12 +3,12 @@
 ### 2017
 
 **March**
-* Swift in a Large Objective-C Codebase | [@gspiers](https://twitter.com/gspiers) | [slides](./2017/03/greg_spiers_swift_in_objc_codebase.pdf)
-* Introduction to Vapor and Server-Side Swift | [@0xTim](https://twitter.com/0xTim) | [slides](./2017/03/timcondon_serverside_swift_with_vapor.pdf)
+* Swift in a Large Objective-C Codebase | Greg Spiers | [@gspiers](https://twitter.com/gspiers) | [slides](./2017/03/greg_spiers_swift_in_objc_codebase.pdf)
+* Introduction to Vapor and Server-Side Swift | Tim Condon | [@0xTim](https://twitter.com/0xTim) | [slides](./2017/03/timcondon_serverside_swift_with_vapor.pdf)
 
 **February**
-* The Windows Bridge for iOS | [@mikeirvingweb](https://twitter.com/mikeirvingweb) | [slides](./2017/02/mikeirving_windows_bridge.pdf)
-* A Swift Journey | [@lukestringer90](https://twitter.com/lukestringer90) | [slides](./2017/02/lukestringer_a_swift_journey.pdf)
+* The Windows Bridge for iOS | Mike Irving | [@mikeirvingweb](https://twitter.com/mikeirvingweb) | [slides](./2017/02/mikeirving_windows_bridge.pdf)
+* A Swift Journey | Luke Stringer | [@lukestringer90](https://twitter.com/lukestringer90) | [slides](./2017/02/lukestringer_a_swift_journey.pdf)
 
 **January**
 * Get More Done By Doing Less | [@abitofcode](https://twitter.com/abitofcode)
