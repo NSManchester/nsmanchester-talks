@@ -2,6 +2,10 @@
 
 ### 2017
 
+**April**
+* Protocol-Oriented UI | Bobby Bobak | [@bobek_balinek](https://twitter.com/bobek_balinek) | [slides](./2017/04/bobby_bobak_protocol_oriented_ui.pdf) | [code](https://github.com/bobek-balinek/nsmanchester-slides)
+* Work/life balance | [@stuartsharpe](https://twitter.com/stuartsharpe)
+
 **March**
 * Swift in a Large Objective-C Codebase | Greg Spiers | [@gspiers](https://twitter.com/gspiers) | [slides](./2017/03/greg_spiers_swift_in_objc_codebase.pdf)
 * Introduction to Vapor and Server-Side Swift | Tim Condon | [@0xTim](https://twitter.com/0xTim) | [slides](./2017/03/timcondon_serverside_swift_with_vapor.pdf)
