@@ -1,5 +1,9 @@
 ## NSManchester talks
 
+### 2018
+**December**
+* TBA | Steve Westgarth | [@stevewestgarth](https://twitter.com/stevewestgarth?)
+
 ### 2017
 
 **April**
