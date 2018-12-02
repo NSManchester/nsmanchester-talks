@@ -1,6 +1,8 @@
 # NSManchester 
 
-This is where you can request a talk topic, or propose a talk you would like to present. To see details of our next meetup, view our [Meetup Page](https://www.meetup.com/NSManchester/).
+Go to the [issues page](https://github.com/NSManchester/nsmanchester-talks/issues) where you can request a talk topic, or propose a talk you would like to present. 
+
+To see details of our next meetup, view our [Meetup Page](https://www.meetup.com/NSManchester/).
 
 ⭐️ Star this repo to stay up to date with what's happening in the community ⭐️
 
