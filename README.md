@@ -1,8 +1,23 @@
-## NSManchester talks
+# NSManchester 
 
+This is where you can request a talk topic, or propose a talk you would like to present. To see details of our next meetup, view our [Meetup Page](https://www.meetup.com/NSManchester/).
+
+⭐️ Star this repo to stay up to date with what's happening in the community ⭐️
+
+## Community
+
+* Do you want to see a talk?
+* Did you have a talk you wanted to give?
+* Are you looking to hire?
+* Are you looking for help?
+Contribute to our community by creating an issue! 
+
+## Past Talks
 ### 2018
 **December**
-* TBA | Steve Westgarth | [@stevewestgarth](https://twitter.com/stevewestgarth?)
+Herding Cats @ a Software Developer Studio | **Steve Westgarth** | [@stevewestgarth](https://twitter.com/stevewestgarth?)
+
+Working in a Development Studio poses a unique set of challenges for developers and project manager - multiple projects make programme management difficult and applying agile principles can be challenging. This talk will explore how we manage our Software Development Programme and how we ensure all Cats within the Organisation are walking in the same direction.
 
 ### 2017
 
