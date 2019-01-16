@@ -17,14 +17,6 @@ Contribute to our community by creating an issue!
 
 ## Upcoming Talks
 
-### 2019
-**January 7th**
-
-Introduction to Vapor Workshop | **Tim Condon** | [@0xTim](https://twitter.com/0xTim) 
-
-Get an introduction to the most popular server-side Swift framework, [Vapor](https://vapor.codes)! Learn how to build a simple CRUD API in this short workshop. The workshop will be lead by Tim, engineer at the BBC and author of Server Side Swift with Vapor! To participate please bring your laptop with [Xcode 10] (https://developer.apple.com/xcode/) and [Homebrew] (https://brew.sh) installed. 
-
-
 **February 4th**
 
 Peak Frameworks | **Luke Stringer and Sam Oakley** | [lukestringer90](https://twitter.com/lukestringer90) and [Sam_Oakley](https://twitter.com/Sam_Oakley)
@@ -32,6 +24,13 @@ Peak Frameworks | **Luke Stringer and Sam Oakley** | [lukestringer90](https://tw
 The Peak Frameworks are a collection of open source, 100% Swift microframeworks providing a standardised approach to building iOS apps. This talk will cover the how and why the mobile team at 3Squared created the Peak Frameworks, their progress in updating legacy projects to use more and more Swift, and a demo of how the frameworks can be used in building a simple app talking to a web api.
 
 ## Past Talks
+
+### 2019
+**January 7th**
+
+Introduction to Vapor Workshop | **Tim Condon** | [@0xTim](https://twitter.com/0xTim) 
+
+Get an introduction to the most popular server-side Swift framework, [Vapor](https://vapor.codes)! Learn how to build a simple CRUD API in this short workshop. The workshop will be lead by Tim, engineer at the BBC and author of Server Side Swift with Vapor! To participate please bring your laptop with [Xcode 10] (https://developer.apple.com/xcode/) and [Homebrew] (https://brew.sh) installed. 
 
 ### 2018
 **December**
