@@ -37,6 +37,7 @@ The Peak Framework is a collection of open source, 100% Swift microframeworks pr
 The subspec myth | **Charlotte Hoare**
 
 Shipping modularised components with Cocoapods and the myth of the subspec.
+[slides](nsmanchester-talks/2019/02/The Subspec Myth.pdf)
 
 **January 7th**
 
