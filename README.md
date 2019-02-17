@@ -34,10 +34,9 @@ The Peak Framework | **Luke Stringer and Sam Oakley** | [lukestringer90](https:/
 The Peak Framework is a collection of open source, 100% Swift microframeworks providing a standardised approach to building iOS apps. This talk will cover the how and why the mobile team at 3Squared created The Peak Framework, their progress in updating legacy projects to use more and more Swift, and a demo of how the frameworks can be used in building a simple app talking to a web api. | [slides](2019/02/The_Peak_Framework.pdf) | [code](https://github.com/3squared)
 
 
-The subspec myth | **Charlotte Hoare**
+The subspec myth | **Charlotte Hoare** | [slides](2019/02/The_Subspec_Myth.pdf)
 
 Shipping modularised components with Cocoapods and the myth of the subspec.
-| [slides](2019/02/The Subspec Myth.pdf) |
 
 **January 7th**
 
