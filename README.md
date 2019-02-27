@@ -22,6 +22,7 @@ Contribute to our community by creating an issue!
 Lightning talks | **Various**
 
 * Melvin John - Xcode Templates
+* Greg Spiers - The Importance of Community for Your Career
 
 ## Past Talks
 
