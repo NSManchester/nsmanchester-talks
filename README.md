@@ -23,6 +23,7 @@ Lightning talks | **Various**
 
 * Melvin John - Xcode Templates
 * Greg Spiers - The Importance of Community for Your Career
+* Henry Allsuch - Vapor Website
 
 ## Past Talks
 
