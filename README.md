@@ -17,6 +17,10 @@ Contribute to our community by creating an issue!
 
 ## Upcoming Talks
 
+**April 1st**
+
+Gambling with Swift for fun (and profit?) | **John Foulkes** 
+
 **March 4th**
 
 Lightning talks | **Various**
