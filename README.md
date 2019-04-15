@@ -17,6 +17,22 @@ Contribute to our community by creating an issue!
 
 ## Upcoming Talks
 
+**May 7th**
+
+Core Data Codable | **Alex** | [allavae37](https://twitter.com/allavae37)
+
+**June 3rd**
+
+WWDC Keynote Watch Party
+
+**July 1st**
+
+Accessibility Without the ‘V’ Word | **Rob Whitaker** | [@RobRWAPP](https://twitter.com/RobRWAPP)
+
+Accessibility is about more than tagging images, its about thinking about your users and including them in your app. Get accessibility right, and everyone gets a better experience.
+
+## Past Talks
+
 **April 1st**
 
 Gambling with Swift for fun (and profit?) | **John Foulkes** 
@@ -29,13 +45,11 @@ Lightning talks | **Various**
 * Greg Spiers - The Importance of Community for Your Career
 * Henry Allsuch - Vapor Website
 
-## Past Talks
-
 ### 2019
 
 **February 4th**
 
-The Peak Framework | **Luke Stringer and Sam Oakley** | [lukestringer90](https://twitter.com/lukestringer90) and [Sam_Oakley](https://twitter.com/Sam_Oakley)
+The Peak Framework | **Luke Stringer and Sam Oakley** | [@lukestringer90](https://twitter.com/lukestringer90) and [Sam_Oakley](https://twitter.com/Sam_Oakley)
 
 The Peak Framework is a collection of open source, 100% Swift microframeworks providing a standardised approach to building iOS apps. This talk will cover the how and why the mobile team at 3Squared created The Peak Framework, their progress in updating legacy projects to use more and more Swift, and a demo of how the frameworks can be used in building a simple app talking to a web api. | [slides](2019/02/The_Peak_Framework.pdf) | [code](https://github.com/3squared)
 
