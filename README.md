@@ -17,12 +17,6 @@ Contribute to our community by creating an issue!
 
 ## Upcoming Talks
 
-**May 7th**
-
-Core Data Codable | **Alex** | [allavae37](https://twitter.com/allavae37)
-
-Core Data is flexible, powerful, and a wonderful tool for your app, if it’s tamed correctly. After setting that up, you’ve still got a networking layer and JSON to deal with. What if we remove the extra objects and any extra mapping logic? That’s what Core Data Codable is all about, creating an easy, simple to use object system that just works.
-
 **June 3rd**
 
 WWDC Keynote Watch Party
@@ -34,6 +28,12 @@ Accessibility Without the ‘V’ Word | **Rob Whitaker** | [@RobRWAPP](https://
 Accessibility is about more than tagging images, its about thinking about your users and including them in your app. Get accessibility right, and everyone gets a better experience.
 
 ## Past Talks
+
+**May 7th**
+
+Core Data Codable | **Alex** | [allavae37](https://twitter.com/allavae37)
+
+Core Data is flexible, powerful, and a wonderful tool for your app, if it’s tamed correctly. After setting that up, you’ve still got a networking layer and JSON to deal with. What if we remove the extra objects and any extra mapping logic? That’s what Core Data Codable is all about, creating an easy, simple to use object system that just works.
 
 **April 1st**
 
