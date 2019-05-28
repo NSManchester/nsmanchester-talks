@@ -19,7 +19,7 @@ Contribute to our community by creating an issue!
 
 **June 3rd**
 
-WWDC Keynote Watch Party
+This month we will be watching the WWDC keynote live and then be going to the pub afterwards to talk about all the latest announcements.
 
 **July 1st**
 
