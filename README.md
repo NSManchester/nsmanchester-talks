@@ -17,17 +17,23 @@ Contribute to our community by creating an issue!
 
 ## Upcoming Talks
 
-**June 3rd**
-
-This month we will be watching the WWDC keynote live and then be going to the pub afterwards to talk about all the latest announcements.
-
 **July 1st**
+
+Flutter: the Good, the Bad and the Ugly | **Jack Chamberlain** | [@jackchmbrln](https://twitter.com/jackchmbrln)
+
+A short talk giving a quick overview of how we have been experimenting with Flutter and what we have learned about it
+
+**August 6th**
 
 Accessibility Without the ‘V’ Word | **Rob Whitaker** | [@RobRWAPP](https://twitter.com/RobRWAPP)
 
 Accessibility is about more than tagging images, its about thinking about your users and including them in your app. Get accessibility right, and everyone gets a better experience.
 
 ## Past Talks
+
+**June 3rd**
+
+This month we will be watching the WWDC keynote live and then be going to the pub afterwards to talk about all the latest announcements.
 
 **May 7th**
 
