@@ -23,7 +23,9 @@ Flutter: the Good, the Bad and the Ugly | **Jack Chamberlain** | [@jackchmbrln](
 
 A short talk giving a quick overview of how we have been experimenting with Flutter and what we have learned about it
 
-**August 6th**
+Accessibility Without the API | **Chris Barker** | [@MrChrisBarker](https://twitter.com/MrChrisBarker)
+
+**Coming Soon**
 
 Accessibility Without the ‘V’ Word | **Rob Whitaker** | [@RobRWAPP](https://twitter.com/RobRWAPP)
 
