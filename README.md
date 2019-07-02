@@ -17,14 +17,6 @@ Contribute to our community by creating an issue!
 
 ## Upcoming Talks
 
-**July 1st**
-
-Flutter: the Good, the Bad and the Ugly | **Jack Chamberlain** | [@jackchmbrln](https://twitter.com/jackchmbrln)
-
-A short talk giving a quick overview of how we have been experimenting with Flutter and what we have learned about it
-
-Accessibility Without the API | **Chris Barker** | [@MrChrisBarker](https://twitter.com/MrChrisBarker)
-
 **Coming Soon**
 
 Accessibility Without the ‘V’ Word | **Rob Whitaker** | [@RobRWAPP](https://twitter.com/RobRWAPP)
@@ -32,6 +24,14 @@ Accessibility Without the ‘V’ Word | **Rob Whitaker** | [@RobRWAPP](https://
 Accessibility is about more than tagging images, its about thinking about your users and including them in your app. Get accessibility right, and everyone gets a better experience.
 
 ## Past Talks
+
+**July 1st**
+
+Flutter: the Good, the Bad and the Ugly | **Jack Chamberlain** | [@jackchmbrln](https://twitter.com/jackchmbrln)
+
+A short talk giving a quick overview of how we have been experimenting with Flutter and what we have learned about it
+
+Accessibility Without the API | **Chris Barker** | [@MrChrisBarker](https://twitter.com/MrChrisBarker)
 
 **June 3rd**
 
