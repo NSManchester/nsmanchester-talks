@@ -17,6 +17,12 @@ Contribute to our community by creating an issue!
 
 ## Upcoming Talks
 
+**August 5th**
+
+Making your app feel at home on iOS 13 | **Dave Verwer** | [@DaveVerwer](https://twitter.com/DaveVerwer)
+
+Swift Package Manager | **Tim Condon** | [@0xTim](https://twitter.com/0xTim)
+
 **Coming Soon**
 
 Accessibility Without the ‘V’ Word | **Rob Whitaker** | [@RobRWAPP](https://twitter.com/RobRWAPP)
