@@ -17,11 +17,9 @@ Contribute to our community by creating an issue!
 
 ## Upcoming Talks
 
-**August 5th**
+Testing Throughout! | **Lee Chivers** | [@leechivers12](https://twitter.com/leechivers12)
 
-Making your app feel at home on iOS 13 | **Dave Verwer** | [@DaveVerwer](https://twitter.com/DaveVerwer)
-
-Swift Package Manager | **Tim Condon** | [@0xTim](https://twitter.com/0xTim)
+The talk will be focusing on how testers are seen still within the modern day, will be showing a few different ways how we can work together to build quality, instead of just testing quality and will share some benefits what this will bring the team/crews.
 
 **Coming Soon**
 
@@ -30,6 +28,12 @@ Accessibility Without the ‘V’ Word | **Rob Whitaker** | [@RobRWAPP](https://
 Accessibility is about more than tagging images, its about thinking about your users and including them in your app. Get accessibility right, and everyone gets a better experience.
 
 ## Past Talks
+
+**August 5th**
+
+Making your app feel at home on iOS 13 | **Dave Verwer** | [@DaveVerwer](https://twitter.com/DaveVerwer)
+
+Swift Package Manager | **Tim Condon** | [@0xTim](https://twitter.com/0xTim)
 
 **July 1st**
 
