@@ -15,19 +15,19 @@ To see details of our next meetup, view our [Meetup Page](https://www.meetup.com
 
 Contribute to our community by creating an issue! 
 
-## Upcoming Talks
+## Past Talks
 
-Testing Throughout! | **Lee Chivers** | [@leechivers12](https://twitter.com/leechivers12)
-
-The talk will be focusing on how testers are seen still within the modern day, will be showing a few different ways how we can work together to build quality, instead of just testing quality and will share some benefits what this will bring the team/crews.
-
-**Coming Soon**
+**October 7th**
 
 Accessibility Without the ‘V’ Word | **Rob Whitaker** | [@RobRWAPP](https://twitter.com/RobRWAPP)
 
 Accessibility is about more than tagging images, its about thinking about your users and including them in your app. Get accessibility right, and everyone gets a better experience.
 
-## Past Talks
+**September 2nd**
+
+Testing Throughout! | **Lee Chivers** | [@leechivers12](https://twitter.com/leechivers12)
+
+The talk will be focusing on how testers are seen still within the modern day, will be showing a few different ways how we can work together to build quality, instead of just testing quality and will share some benefits what this will bring the team/crews.
 
 **August 5th**
 
