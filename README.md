@@ -17,6 +17,16 @@ Contribute to our community by creating an issue!
 
 ## Past Talks
 
+### 2020
+
+**Febuary 10th**
+
+Restofire Design and Motivation | **Rahul Katariya** | [@rahulkatariya91](https://twitter.com/rahulkatariya91) | [slides](https://bit.ly/2Sd6OfY)
+
+Rahul shares his experience and motivation behind creating the design of library Restofire - A declarative network abstraction layer written on top of Alamofire.
+
+### 2019
+
 **October 7th**
 
 Accessibility Without the ‘V’ Word | **Rob Whitaker** | [@RobRWAPP](https://twitter.com/RobRWAPP)
@@ -64,8 +74,6 @@ Lightning talks | **Various**
 * Melvin John - Xcode Templates
 * Greg Spiers - The Importance of Community for Your Career
 * Henry Allsuch - Vapor Website
-
-### 2019
 
 **February 4th**
 
