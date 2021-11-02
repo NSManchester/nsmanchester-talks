@@ -1,6 +1,6 @@
-# NSManchester 
+# NSManchester
 
-Go to the [issues page](https://github.com/NSManchester/nsmanchester-talks/issues) where you can request a talk topic, or propose a talk you would like to present. 
+Go to the [issues page](https://github.com/NSManchester/nsmanchester-talks/issues) where you can request a talk topic, or propose a talk you would like to present.
 
 To see details of our next meetup, view our [Meetup Page](https://www.meetup.com/NSManchester/).
 
@@ -13,9 +13,17 @@ To see details of our next meetup, view our [Meetup Page](https://www.meetup.com
 * Are you looking to hire?
 * Are you looking for help?
 
-Contribute to our community by creating an issue! 
+Contribute to our community by creating an issue!
 
 ## Past Talks
+
+### 2021
+
+**November 1st**
+
+Approach to modularising legacy apps | **Sam Rowley** | [@SRRowley](https://twitter.com/SRRowley) | [Github Code](https://github.com/SRowley90/RxCombineModuleExample)
+
+How I went about on my current journey to add new features of a legacy app which has multiple external dependencies.
 
 ### 2020
 
@@ -65,7 +73,7 @@ Core Data is flexible, powerful, and a wonderful tool for your app, if it’s ta
 
 **April 1st**
 
-Gambling with Swift for fun (and profit?) | **John Foulkes** 
+Gambling with Swift for fun (and profit?) | **John Foulkes**
 
 **March 4th**
 
@@ -88,9 +96,9 @@ Shipping modularised components with Cocoapods and the myth of the subspec.
 
 **January 7th**
 
-Introduction to Vapor Workshop | **Tim Condon** | [@0xTim](https://twitter.com/0xTim) 
+Introduction to Vapor Workshop | **Tim Condon** | [@0xTim](https://twitter.com/0xTim)
 
-Get an introduction to the most popular server-side Swift framework, [Vapor](https://vapor.codes)! Learn how to build a simple CRUD API in this short workshop. The workshop will be lead by Tim, engineer at the BBC and author of Server Side Swift with Vapor! To participate please bring your laptop with [Xcode 10] (https://developer.apple.com/xcode/) and [Homebrew] (https://brew.sh) installed. 
+Get an introduction to the most popular server-side Swift framework, [Vapor](https://vapor.codes)! Learn how to build a simple CRUD API in this short workshop. The workshop will be lead by Tim, engineer at the BBC and author of Server Side Swift with Vapor! To participate please bring your laptop with [Xcode 10] (https://developer.apple.com/xcode/) and [Homebrew] (https://brew.sh) installed.
 
 ### 2018
 **December**
